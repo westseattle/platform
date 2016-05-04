@@ -4,7 +4,7 @@ By Larry K
 
 ## Animating a Character
 
-A character should have multiple costumes representing each frame. Right click on each of the images below and save them to your desktop. Drag these images to the costumes tab for your sprite in Snap.
+A character should have multiple costumes representing each frame. Right click on each of the images below and save them to your desktop. 
 
 ![Costume 0](./costumes/0.png)
 ![Costume 1](./costumes/1.png)
@@ -12,6 +12,10 @@ A character should have multiple costumes representing each frame. Right click o
 ![Costume 3](./costumes/3.png)
 ![Costume 4](./costumes/4.png)
 ![Costume 5](./costumes/5.png)
+
+Drag these images to the costumes tab for your sprite in Snap. Rename your main Sprite to "Hero". This will make it clear that this Sprite represents the main character in your platform game. When you are done, your Costumes tab should look like the one below:
+
+![Hero Sprite](./screenshots/step1.png)
 
 ## Moving Left and Right
 
