@@ -5,6 +5,7 @@ By Larry K
 ## Animating a Character
 
 A character should have multiple costumes representing each frame. Right click on each of the images below and save them to your desktop. 
+
 ![Costume 0](./costumes/0.png)
 ![Costume 1](./costumes/1.png)
 ![Costume 2](./costumes/2.png)
