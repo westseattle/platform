@@ -17,6 +17,15 @@ Drag these images to the costumes tab for your sprite in Snap. Rename your main 
 
 ![Hero Sprite](./screenshots/step1.png)
 
+![Screenshot 2](./screenshots/step2.png)
+
+## Adding a Background
+
+![Stage Costume](./costumes/stage.png)
+
+![Stage Screenshot 1](./screenshots/step3a.png)
+![Stage Screenshot 2](./screenshots/step3b.png)
+
 ## Moving Left and Right
 
 ## Gravity
