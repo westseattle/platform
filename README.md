@@ -8,4 +8,4 @@ A character should have multiple costumes representing each frame
 
 ## Gravity
 
-![Costume 1](/costumes/1.svg)
+![Costume 1](./costumes/1.svg)
