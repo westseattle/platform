@@ -1,8 +1,10 @@
 # How to Build a Platform Game in Snap
 
+By Larry K
+
 ## Animating a Character
 
-A character should have multiple costumes representing each frame
+A character should have multiple costumes representing each frame. Right click on each of the images below and save them to your desktop. Drag these images to the costumes tab for your sprite in Snap.
 
 ![Costume 0](./costumes/0.png)
 ![Costume 1](./costumes/1.png)
