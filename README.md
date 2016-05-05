@@ -31,7 +31,10 @@ Drag these images to the costumes tab for your sprite in Snap. Rename your main 
 ![Left and Right 1](./screenshots/step4a.png)
 ![Left and Right 2](./screenshots/step4b.png)
 
-## Gravity
+## Jumping and Gravity
 
-![Left and Right 1](./screenshots/step5a.png)
-![Left and Right 2](./screenshots/step5b.png)
+![Jumping 1](./screenshots/step5a.png)
+
+After our Hero sprite reaches the peak of its jump, we want it to fall until it hits the ground. We can make our Sprite slowly fall by changing its Y position by a negative number. We eventually want our Sprite to stop falling. We can tell our Sprite to stop falling when it hits the ground by repeating until it is touching the color of the ground. To choose the ground color, bring up the color chooser and click on the ground on the stage. This will let us pick the exact color of the ground.
+
+![Jumping 2](./screenshots/step5b.png)
