@@ -44,17 +44,29 @@ Our Hero is now animated, but the stage still has the default white background c
 Once the image is saved, switch to the Stage Sprite in Snap and click on the Costumes tab. Drag the stage image to the costumes tab to change the background. You will create a background for each level or stage in the game. When the player completes the objective for each level, you can broadcast a "level completed" message and change the costume of the stage to the next level's background.
 
 ![Stage Screenshot 1](./screenshots/step3a.png)
+
+When you are done adding your background to the stage, your screen should now look like the one below. When you click the flag to start the game, your Hero should be walking in place just above the ground.
+
 ![Stage Screenshot 2](./screenshots/step3b.png)
 
 ## Moving Left and Right
 
+Now we want to move our Hero left and right when the player presses the left and right arrow keys on their keyboard. To do this, we will use the "key pressed" block under "Sensing". In our game loop (the forever block), we will check if the left or right arrow key is pressed. If the left arrow key is pressed, we will point the Hero left (-90) and change the Hero's **x position** by a negative value. If the right arrow key is pressed, we will point the Hero right (90) and change the Hero's **x position** by a positive number. Let's create a variable called **xchange** that will store the amount to change the character's **x position** by. The arrow presses will modify this value and we will update the Sprite's position each time the loop runs. Modify your script to look like the one below and test this out:
+
 ![Left and Right 1](./screenshots/step4a.png)
+
+You will notice that your Hero will rapidly move in the direction of the arrow pressed. To make our character's movement more realistic, we will simulate some friction and gradually slow the Sprite's speed down to zero. To do this, multiply the **xchange** variable we create by a number less than 1 as shown below. This will make the **xchange** value go down from 1 to 0 gradually. Add the change below and run your program.
+
 ![Left and Right 2](./screenshots/step4b.png)
 
 ## Jumping and Gravity
 
+Now that our character can move left and right, we want our character to be able to jump using the **up** arrow. So we will add another block to check if the **up arrow key** is pressed. If so, we will change the Hero's **y position**. When the up arrow is initially pressed, we will **change the y position by a positive number** so that the character rises. However, we want the player to obey the laws of gravity, so we will then gradually **decrease the Sprite's y position** until the Hero touches the ground. Create a variable called **ychange** as shown below. This variable will keep track of updates to the Hero's **y position**:
+
 ![Jumping 1](./screenshots/step5a.png)
 
-After our Hero sprite reaches the peak of its jump, we want it to fall until it hits the ground. We can make our Sprite slowly fall by changing its Y position by a negative number. We eventually want our Sprite to stop falling. We can tell our Sprite to stop falling when it hits the ground by repeating until it is touching the color of the ground. To choose the ground color, bring up the color chooser and click on the ground on the stage. This will let us pick the exact color of the ground.
+Notice that we tell our Sprite to stop falling when it hits the ground by repeating until it is **touching the color of the ground**. To choose the correct **touching** color, bring up the color chooser and click on the ground on the stage. This will let us pick the exact color of the ground so that our loop knows when to stop. 
 
 ![Jumping 2](./screenshots/step5b.png)
+
+Once you have completed your script, test your program out. You should have a character that can move around and jump. Once you have your program working, begin thinking about how you will add Sprites for powerups, platforms, and enemies. Plan out what each of these Sprites will look like and how they will affect the Hero. Sketch out your levels / stages and think about an objective for each of them. Ask questions and discuss your game with others if you need help coming up with ideas. 
