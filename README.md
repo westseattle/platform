@@ -4,11 +4,13 @@ By Larry K
 
 ## What is a Platform Game?
 
-A platform game  consists of a player-controlled **Hero** who completes a series of **levels** or **missions**. Each level has an **objective** or **goal** that must be achieved in order to complete the level. It is called a platform game because the player jumps on **platforms** and dodges various **enemies**. 
+A platform game  consists of a player-controlled **Hero** who completes a series of **levels** or **missions**. Each level has an **objective** or **goal** that must be achieved in order to complete the level. It is called a platform game because the player jumps on **platforms** and dodges various **enemies**. Platform games also typically have a number of **powerups** that make the Hero more powerful. 
 
-One of the most famous platform games is Super Mario Brothers. Mario must complete a series of levels by completing an objective. In each level, Mario must touch the flag or defeat a boss. Mario can grab a number of **powerups** such as a Mushroom, a Star, and a Flower. The powerups give him special abilities. In Metroid, the hero is Samus Aran. She can collect powerups scattered throughout levels that modify her behavior. Examples of powerups in Metroid include the Ice Beam (freezes enemies), High Jump Boots (makes Samus jump higher), and Missile Packs (more powerful attacks).
+One of the most famous platform games is Super Mario Brothers. In Mario Brothers, the Hero is Mario. Mario completes a level by touching the flag or defeating Bowser. Enemies in Mario Brothers include Goombas, Koopa Troopas, and Thwomps, who each attack Mario in various ways. Mario can grab a number of **powerups** to become mower powerful. Examples of powerups in Mario Brothers include Mushrooms, Stars, and Flower Power. 
 
-In Sonic the Hedgehog, the Hero is Sonic. 
+Other examples of platform games include Sonic the Hedgehog, Metroid, and many others. In Metroid, the hero is Samus Aran. Examples of powerups in Metroid include the Ice Beam (freezes enemies), High Jump Boots (makes Samus jump higher), and Missile Packs (more powerful attacks). 
+
+Your first task will be to design your own platform game nd
 
 ## The Hero
 
