@@ -33,3 +33,5 @@ Drag these images to the costumes tab for your sprite in Snap. Rename your main 
 
 ## Gravity
 
+![Left and Right 1](./screenshots/step5a.png)
+![Left and Right 2](./screenshots/step5b.png)
