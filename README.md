@@ -4,17 +4,17 @@ By Larry K
 
 ## What is a Platform Game?
 
-A platform game  consists of a player-controlled **Hero** who completes a series of **levels** or **missions**. Each level has an **objective** or **goal** that must be achieved in order to complete the level. It is called a platform game because the player jumps on **platforms** and dodges various **enemies**. Platform games also typically have a number of **powerups** that make the Hero more powerful. 
+A platform game  consists of a player-controlled **Hero** who completes a series of **levels** or **missions** by defeating **enemies**, avoiding **hazards**, and collecting **powerups**. Each level has an **objective** or **goal** that must be achieved in order to complete the level. It is called a platform game because the player jumps on **platforms** to dodge various enemies and hazards. Platform games typically have a number of **powerups** that make the Hero more powerful. 
 
-One of the most famous platform games is Super Mario Brothers. In Mario Brothers, the Hero is Mario. Mario completes a level by touching the flag or defeating Bowser. Enemies in Mario Brothers include Goombas, Koopa Troopas, and Thwomps, who each attack Mario in various ways. Mario can grab a number of **powerups** to become mower powerful. Examples of powerups in Mario Brothers include Mushrooms, Stars, and Flower Power. 
+One of the most famous platform games is Super Mario Brothers. In Mario Brothers, the Heroes are Mario and Luigi. Mario completes a level by touching the flag or defeating Bowser. Enemies in Mario Brothers include Goombas, Koopa Troopas, and Thwomps, who each attack Mario in various ways. Mario collects various **powerups** to get special abilities. Examples of powerups in Mario Brothers include Mushrooms (makes Mario stronger), Stars (makes Mario invincible), and Flower Power (gives Mario the ability to shoot fire).
 
 Other examples of platform games include Sonic the Hedgehog, Metroid, and many others. In Metroid, the hero is Samus Aran. Examples of powerups in Metroid include the Ice Beam (freezes enemies), High Jump Boots (makes Samus jump higher), and Missile Packs (more powerful attacks). 
 
-Your first task will be to design your own platform game nd
+In this project, you will design your own unique platform game, including the Hero, multiple powerups, levels, and hazards.
 
 ## The Hero
 
-We will start off our platform game by creating a Hero sprite. The Hero is controlled the person playing the gamet. In Super Mario Brothers, the Hero is Mario. In Metroid, the Hero is Samus Aran.
+We will start off our platform game by creating a Hero sprite. The Hero is controlled the person playing the game. The first task is to create the Hero costumes to controler how our Sprite will look.
 
 ### Animating a Character
 
