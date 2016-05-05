@@ -28,5 +28,8 @@ Drag these images to the costumes tab for your sprite in Snap. Rename your main 
 
 ## Moving Left and Right
 
+![Left and Right 1](./screenshots/step4a.png)
+![Left and Right 2](./screenshots/step4b.png)
+
 ## Gravity
 
