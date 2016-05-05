@@ -2,7 +2,19 @@
 
 By Larry K
 
-## Animating a Character
+## What is a Platform Game?
+
+A platform game  consists of a player-controlled **Hero** who completes a series of **levels** or **missions**. Each level has an **objective** or **goal** that must be achieved in order to complete the level. It is called a platform game because the player jumps on **platforms** and dodges various **enemies**. 
+
+One of the most famous platform games is Super Mario Brothers. Mario must complete a series of levels by completing an objective. In each level, Mario must touch the flag or defeat a boss. Mario can grab a number of **powerups** such as a Mushroom, a Star, and a Flower. The powerups give him special abilities. In Metroid, the hero is Samus Aran. She can collect powerups scattered throughout levels that modify her behavior. Examples of powerups in Metroid include the Ice Beam (freezes enemies), High Jump Boots (makes Samus jump higher), and Missile Packs (more powerful attacks).
+
+In Sonic the Hedgehog, the Hero is Sonic. 
+
+## The Hero
+
+We will start off our platform game by creating a Hero sprite. The Hero is controlled the person playing the gamet. In Super Mario Brothers, the Hero is Mario. In Metroid, the Hero is Samus Aran.
+
+### Animating a Character
 
 A character should have multiple costumes representing each frame. Right click on each of the images below and save them to your desktop. 
 
