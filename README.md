@@ -1,6 +1,6 @@
 # How to Build a Platform Game in Snap
 
-By Larry K
+By Larry Kubin
 
 ## What is a Platform Game?
 
